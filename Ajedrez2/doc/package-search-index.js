@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"juego.control"},{"l":"juego.modelo"},{"l":"juego.modelo.pieza"},{"l":"juego.textui"},{"l":"juego.util"}]
